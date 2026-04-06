@@ -1,1 +1,0 @@
-import{$ as e,H as o}from"./chunk-COAF7QJ3.js";var a=class t{layoutMode=e("landing");setLanding(){this.layoutMode.set("landing")}setContent(){this.layoutMode.set("content")}static \u0275fac=function(n){return new(n||t)};static \u0275prov=o({token:t,factory:t.\u0275fac,providedIn:"root"})};export{a};
